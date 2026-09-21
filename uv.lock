@@ -4381,14 +4381,11 @@ wheels = [
 
 [[package]]
 name = "types-networkx"
-version = "3.6.1.20260303"
+version = "3.6.1.20260911"
 source = { registry = "https://pypi.org/simple" }
-dependencies = [
-    { name = "numpy" },
-]
-sdist = { url = "https://files.pythonhosted.org/packages/78/37/d8f7a68a5291cab793e27967d187abbf0c6db318d49e5b6e9dd32b13c2e5/types_networkx-3.6.1.20260303.tar.gz", hash = "sha256:8248aa6fcadc08bd7992af6e412bfc5cfa043bda5ce7ab407fa591c808ce8557", size = 73790, upload-time = "2026-03-03T04:03:46.201Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/e9/8c/a788d233be06b9f20fbaaf4b090bbd6423ea8d67d27e47115fa22a930c6b/types_networkx-3.6.1.20260911.tar.gz", hash = "sha256:d592c4520b05f87e7b94087ce7f244194209ad213633a605131f6ab89cd6f8ea", size = 76365, upload-time = "2026-09-11T06:45:10.322Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/f2/b7/eedcba86c567832699eb242709e8951c0df2b6658beb5f931e954292bcda/types_networkx-3.6.1.20260303-py3-none-any.whl", hash = "sha256:754c7c7bcaab3c317b0b86441240c0a5bd0d2f419aba80a88e9718248a5c89af", size = 162680, upload-time = "2026-03-03T04:03:44.081Z" },
+    { url = "https://files.pythonhosted.org/packages/d3/65/24c71d89a4f4ce053912ed46fe036e2e86019199c08b4d0e49568e4ee18c/types_networkx-3.6.1.20260911-py3-none-any.whl", hash = "sha256:e0ea7f786451bd2e16d7b657a1208edcb80c5e01b86e15b1c78bdeca9db620cf", size = 167431, upload-time = "2026-09-11T06:45:08.865Z" },
 ]
 
 [[package]]
