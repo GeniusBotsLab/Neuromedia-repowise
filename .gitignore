@@ -1,3 +1,17 @@
+# Public-distribution safety additions (deny real local secrets by default)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+credentials*
+secrets*
+backups/
+
 # Python
 __pycache__/
 *.py[cod]
